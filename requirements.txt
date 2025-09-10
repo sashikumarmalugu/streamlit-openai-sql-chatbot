@@ -6,3 +6,9 @@ matplotlib
 seaborn
 flask
 streamlit
+streamlit
+requests
+simplejson
+sqlalchemy
+psycopg[binary]
+openai
